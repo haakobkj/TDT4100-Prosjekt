@@ -1,4 +1,4 @@
-This Java application is developed by Håkon Bakke Kjerstad associated with a project in the subject TDT4100 at NTNU.
+This Java application is developed by Håkon Bakke Kjerstad associated with a project in the subject TDT4100 at NTNU (Spring 2021).
 
 
 Basic Blackjack Rules from (http://www.hitorstand.net/strategy.php):
